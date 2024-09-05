@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    overflow-x: hidden;
+}
+
+.glide {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 95%;
+    height: 50vh;
+}
+
+.map {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+#map {
+    height: 60vh;
+    width: 100%;
+}
